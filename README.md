@@ -40,7 +40,8 @@ https://yotiyoti-swift.connpass.com/event/198508/
 https://uhooi.medium.com/yochiyochi-swift-1-d46bcdc4bc72
 
 ## 🧑‍💻 Work Experience
-- TeamLab 2020/7~ 1month    
+- TeamLab 1month 
 - CyberAgent SummerIntern(CATechChallnge) 3Days
 - LABOT
 - CyberAgent(CATechJob) 2month
+- Tokyo Expression High School MIICA(Lecturer)
