@@ -1,10 +1,10 @@
 # 🧑‍💻Resume
 ## 👤Profile
-🙍‍♂️@miserii
+🙍‍♂️[@miserii](https://github.com/miserii?tab=repositories)
 
 🎂Birthday: 2003/12/22
 
-✉️Email: str3tech@gmail.com
+✉️[Email](str3tech@gmail.com)
 
 
 ## 📎Links
