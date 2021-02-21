@@ -4,7 +4,7 @@
 
 🎂Birthday: 2003/12/22
 
-✉️[Email](str3tech@gmail.com)
+📮[Email](str3tech@gmail.com)
 
 
 ## 📎Links
@@ -12,7 +12,7 @@
 
 📝 [Zenn](https://zenn.dev/lsk4f5/scraps)
 
-## 🛠ハッカソン
+## 📱ハッカソン
 ### CATechChallnge
 
 サイバーエージェントのサマーインターンで行われたCATechChallngeで最優秀賞を受賞
