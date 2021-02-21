@@ -27,13 +27,9 @@ https://docs.google.com/presentation/d/1b75wKoMgm7R6xpa4VIGb-ayL1ivT0nq-HhOCPspX
 
 ### connpass
 
-第一回 よちよち.swift 集まれ！初心者LT会！！[オンライン]
+[第一回 よちよち.swift 集まれ！初心者LT会！！[オンライン]](https://yotiyoti-swift.connpass.com/event/192143/)
 
-https://yotiyoti-swift.connpass.com/event/192143/
-
-第二回よちよち.swift 学ぼう！iOS設計パターン入門輪読会！！ 
-
-https://yotiyoti-swift.connpass.com/event/198508/
+[第二回よちよち.swift 学ぼう！iOS設計パターン入門輪読会！！ ](https://yotiyoti-swift.connpass.com/event/198508/)
 
 ### まとめ記事
 
