@@ -36,8 +36,8 @@ https://docs.google.com/presentation/d/1b75wKoMgm7R6xpa4VIGb-ayL1ivT0nq-HhOCPspX
 https://uhooi.medium.com/yochiyochi-swift-1-d46bcdc4bc72
 
 ## 🧑‍💻 Work Experience
-- TeamLab 1month 
-- CyberAgent SummerIntern(CATechChallnge) 3Days
+- TeamLab SummerIntern
+- CyberAgent SummerIntern(CATechChallnge)
 - LABOT
 - CyberAgent(CATechJob) 2month
 - Tokyo Expression High School MIICA(Lecturer)
